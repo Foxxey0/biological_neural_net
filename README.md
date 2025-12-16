@@ -6,4 +6,4 @@ progress: the neural net itself is done. When you run Main, it opens a window (i
 
 What im currently working on is im trying a bunch of "learning" methods that i thought of. None of them work for realzees. And I didnt expect them to. I just wanted to try them.
 
-![Image](1.png)
+![Image](screenies/1.png)
